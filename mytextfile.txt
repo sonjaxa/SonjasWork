@@ -1,2 +1,3 @@
-My cool text file!
-It's a file!
+My cool text file
+It's a file
+now its a bigger file with no punctuation
