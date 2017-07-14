@@ -1,1 +1,2 @@
-My totally cool text file!
+My cool text file!
+It's a file!
